@@ -1,0 +1,1 @@
+This is to re-construct the google homepage. I will learn how to write and initialize this project.
